@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SketchUp2", "SketchUp2.csproj", "{789C7864-A565-8985-E87E-BDACC1137006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SketchUp2.Editor", "SketchUp2.Editor.csproj", "{77711075-83D8-4AF5-7DD4-16BBD964F133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789C7864-A565-8985-E87E-BDACC1137006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789C7864-A565-8985-E87E-BDACC1137006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789C7864-A565-8985-E87E-BDACC1137006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789C7864-A565-8985-E87E-BDACC1137006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77711075-83D8-4AF5-7DD4-16BBD964F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77711075-83D8-4AF5-7DD4-16BBD964F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77711075-83D8-4AF5-7DD4-16BBD964F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77711075-83D8-4AF5-7DD4-16BBD964F133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
